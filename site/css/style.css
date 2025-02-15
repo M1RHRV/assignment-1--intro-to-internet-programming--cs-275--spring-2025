@@ -1,0 +1,105 @@
+img{
+    margin-left: 645px;
+    margin-top: 10px;
+    padding-bottom: 30px;
+}
+
+h1 {
+    font-family: "Syne Mono", serif;
+    font-size: 50px;
+    text-align: center;
+    padding: 20px;
+}
+h2 {
+    font-family: "Syne Mono", serif;
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+h3 {
+    font-family: "Rock Salt", serif;
+    font-size: 50px;
+    padding-top: 40px;
+    text-align: center;
+}
+.good-design {
+    border: 2px solid rgb(0, 0, 0); 
+    padding: 10px;
+    background-color: #ffffff;
+}
+.box {
+    width: 100%;
+    height: 5px; 
+    background-color: #fdfdfd; 
+    margin: 20px 0; 
+}
+.box-top {
+    height: 20px; 
+}
+.after-last {
+    padding-right: 50px;
+    background-color: #000000;
+    height: 5px; 
+}
+span {
+    font-family: "Rock Salt", serif;
+    display: block;
+    margin-bottom: 10px;
+    padding-bottom: 30px;
+}
+.span1{
+    color: red;
+}
+.span2{
+    color: orange;
+}
+.span3{
+    color: rgb(196, 196, 28);
+}
+.span4{
+    color: green;
+}
+.span5{
+    color: blue
+}
+.span6{
+    color: purple;
+}
+.span7{
+    color: violet;
+}
+.span8{
+    color: red
+}
+.span9{
+    color: orange;
+}
+.span10{
+    color: rgb(196, 196, 28);
+}
+
+p {
+    margin: 24px 12px;
+    font-size: 30px;
+    color: rgb(26, 23, 23);
+    background-color: #f0e4e4;
+    font-family: "Syne Mono", serif;
+}
+body {
+    background-color: #f0e4e4;
+}
+main {
+    
+    flex-direction: column;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+.back-to-top {
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    text-decoration: underline dotted;
+}
